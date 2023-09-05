@@ -5,7 +5,7 @@
 
 📝I regulary write articles on [Medium](https://medium.com/@wesleymarchi)<br />
 📄Know about my experiences [LinkedIn](https://www.linkedin.com/in/wesleymarchi/)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=wesleymarchi&label=Profile%20views&color=0e75b6&style=flat" alt="wesleymarchi" /> </p>
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=wesleymarchi&label=Profile%20views&color=0e75b6&style=flat" alt="wesleymarchi" /> </p>-->
 <div>
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=wesleymarchi&show_icons=true&locale=en" alt="wesleymarchi" />
