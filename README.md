@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 ### I'm Wesley Marchi.
-### A passionate data analyst from Brazil.
+### A passionate data scientist from Brazil.
 
 📝I regulary write articles on [Medium](https://medium.com/@wesleymarchi)<br />
 📄Know about my experiences [LinkedIn](https://www.linkedin.com/in/wesleymarchi/)
