@@ -1,139 +1,74 @@
+<div align="center">
 
-## Hi there 👋
-### I'm Wesley Marchi.
-### A passionate data scientist from Brazil.
+# Wesley Marchi
 
-📝I regulary write articles on [Medium](https://medium.com/@wesleymarchi)<br />
-📄Know about my experiences [LinkedIn](https://www.linkedin.com/in/wesleymarchi/)
-<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=wesleymarchi&label=Profile%20views&color=0e75b6&style=flat" alt="wesleymarchi" /> </p>-->
-<div>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=wesleymarchi&show_icons=true&locale=en" alt="wesleymarchi" />
-    </p>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleymarchi&show_icons=true&locale=en&layout=compact" alt="wesleymarchi" />
-    </p>
-    <br />
+### Data Scientist · University Professor · Software Engineer
+
+I turn data into useful insights and ideas into working software.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleymarchi/)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wesleymarchi)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xwesleymarchi/)
+
 </div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+## About me
 
-## Languages and Tools:
+I'm a data scientist and university professor based in Foz do Iguaçu, Brazil. With a background in Systems Analysis and Development and Software Engineering, I work at the intersection of data, software and geospatial technology.
 
-<p align="left">
-    <a href="https://www.android.com/" target="_blank">
-        <img src="icons/android.svg" alt="Android" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img src="icons/bootstrap.svg" alt="Bootstrap" width="45" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/c.svg" alt="C" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="icons/cplusplus.svg" alt="C Plus Plus" width="40" height="40" /> 
-    </a>  
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="icons/csharp.svg" alt="C Sharp" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.embarcadero.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/delphi.webp" alt="Delphi" width="40" height="40" /> 
-    </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/dotnet.svg" alt="Dot Net" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/java.svg" alt="Java" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="icons/python.svg" alt="Python" width="40" height="40" /> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/pandas.svg" alt="Pandas" width="80" height="40" /> 
-    </a> 
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-        <img src="icons/keraslogo.png" alt="Keras" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="icons/tensorflow.svg" alt="TensorFlow" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/r.svg" alt="R" width="50" height="40" /> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="icons/css3.svg" alt="CSS3" width="40" height="40" /> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40" /> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/react.svg" alt="React" width="40" height="40" /> 
-    </a> 
-    <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/gee.png" alt="Google Earth Engine" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/django.svg" alt="Django" width="80" height="40" /> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/git.svg" alt="Git" width="40" height="40"/> 
-    </a> 
-    <a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> 
-        <img src="icons/vscode.png" alt="VSCode" width="40" height="40" /> 
-    </a> 
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-        <img src="icons/jupyter.png" alt="Jupyter" width="40" height="45" /> 
-    </a> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/gcloud.jpg" alt="Google Cloud" width="40" height="40" /> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="icons/nodejs.png" alt="nodejs" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="icons/postgresql.png" alt="PostgreSQL" width="40" height="40" /> 
-    </a> 
-    <a href="https://survey123.arcgis.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/survey123.png" alt="Survey123" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview" target="_blank" rel="noreferrer"> 
-        <img src="icons/arcgisdashboards.png" alt="ArcGis Dashboards" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.adobe.com/za/products/premiere.html" target="_blank" rel="noreferrer"> 
-        <img src="icons/premiere.svg" alt="Adobe Premiere" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="icons/xd.svg" alt="Adobe XD" width="40" height="40" /> 
-    </a>
-</p>
+I use this space to document what I learn, experiment with new tools and share projects built along the way.
 
-<!--
-**wesleymarchi/wesleymarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Working with data analysis, artificial intelligence and software development
+- Interested in Python, ArcGIS, web technologies and geospatial applications
+- Exploring technology for environmental monitoring and territorial development
+- Learning in public through practical projects and technical notes
+- Gamer and streamer outside the terminal
 
-Here are some ideas to get you started:
+## Professional highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data scientist working with technology, spatial data and applied solutions
+- University professor sharing software development and data knowledge
+- Speaker at Latinoware, connecting academic learning with professional practice
+- Contributor to initiatives focused on innovative and sustainable territorial development
+
+## Research & publications
+
+- **Automated environmental management:** technology for monitoring reservoirs and protected areas
+- **Artificial intelligence in healthcare:** AI applied to support Alzheimer's disease diagnosis
+- **Innovation:** reflections on creating value through new products, processes and approaches
+
+## Core stack
+
+### Data & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+<div align="center">
+
+### Let's connect
+
+I'm always open to exchanging ideas about data, technology and learning.
+
+</div>
